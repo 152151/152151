@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a blog about Data Science ...
 - 🌱 I’m currently learning Python, Linear Algebra, and Excel ...
